@@ -29,7 +29,7 @@
       <!-- You will only need to add this meta-data tag, but make sure it's a child of application -->
       <meta-data
         android:name="com.google.android.geo.API_KEY"
-        android:value="AIzaSyA_qRVvyy5qgaJRqA6yU5kSk2TjDAO0vPY"/>
+        android:value="_____CLAVE API______"/>
 
       <!-- You will also only need to add this uses-library tag -->
       <uses-library android:name="org.apache.http.legacy" android:required="false"/>
